@@ -1,0 +1,1 @@
+const t=""+new URL("cities.43e32d2d.pmtiles",import.meta.url).href,e={"text-justify":"center","text-max-width":15,"text-line-height":1.2,"text-letter-spacing":0,"text-padding":4,"text-size":13,"text-anchor":"bottom","text-field":["get","text"],"text-font":["Roboto Bold"],"text-allow-overlap":!0,"text-ignore-placement":!0};export{t as g,e as l};
